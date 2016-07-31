@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="denseC64-0.29">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/denseC64/0.29/1c9016de9f3f6a96011c7487315953f7ccf2e9cd/denseC64-0.29.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/denseC64/0.29/5e99044eed613925107f69554c4e085e797ccc50/denseC64-0.29-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
